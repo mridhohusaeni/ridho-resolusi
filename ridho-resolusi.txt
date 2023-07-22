@@ -1,6 +1,5 @@
 SaenjiiCode Resolusi 
 - konsisten untuk membuat codigan 2x seminggu
 - Membuat platform intuk pengelolaan video
-- Membuat form diskusi
 - Membuat portofolio
 - Membuat WEB E-Commerse
